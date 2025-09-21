@@ -1,1 +1,49 @@
 /* Place CSS styles here */
+
+body {
+    background-color: rgb(18, 56, 47);
+}
+
+.intro-section {
+
+.banner {
+  background-image: url("img/isbl_1200x300.78004172_psq6tn27.webp");
+  background-size: 1010;
+  background-position: center;
+  width: 12px;
+  height: 400px;
+
+  justify-content: center;
+  align-items: center;
+
+  }
+}
+
+
+h1 {
+    color:aliceblue
+
+}
+body {
+color: rgb(183, 197, 57); margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+.wrapper {
+    margin-right: auto; 
+    margin-left:  auto; 
+
+    max-width: 960px; 
+
+    padding-right: 10px; 
+    padding-left:  10px; 
+}
+.textwrapper {
+   max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 2px solid rgb(84, 102, 18);
+  background-color: rgb(3, 49, 45);
+
+}
